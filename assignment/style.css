@@ -1,7 +1,20 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+body {
+    background-color: lightblue;
+}
 /* Add a background color to the header element */
+header {
+    background-color: #d3d3d3;
+    text-align: center;
 
+}
 /* Add a fun background color to the main element */
-
+main {
+    background-color: #000080;
+    color: #ffffff;
+}
 /* Align the h1 containing your name in the center of the header*/
 
 /* Make your p tag a different color and italic */
@@ -11,3 +24,7 @@
 /* Change the font-family of your list */
 
 /* Add a background color to the footer element */
+
+.image {
+    width: 300px;
+}
