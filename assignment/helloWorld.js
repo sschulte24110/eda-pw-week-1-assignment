@@ -1,0 +1,1 @@
+console.log('Hello World! I survived my first assignment.');
